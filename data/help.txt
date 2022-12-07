@@ -1,0 +1,27 @@
+Manuel d'aide:
+
+1)Sélection de votre argent initial
+-----------------------------------
+Grâce aux touches indiqués sélectionnez votre argent de départ.
+Vous ne pourrez plus modifier votre argent après.
+Pressez entrer ensuite
+
+2)Menu Principal
+----------------
+Grâce au touches précisées sous les flèches, vous pouvez choisir votre thème.
+Si le thème n'arrive pas à se charger, n'hésitez pas à consulter le fichier log.
+Plus d'informations sur l'origine des erreurs sont présentes dans ce fichier
+Une fois votre thème choisi pressez entrer
+
+3)Animations
+------------
+Vous avez deux choix:
+-Si vous choisissez oui, les caractères défileront à chaque tirage
+-Si vous choisissez non, les caractères seront simplement remplacés par d'autres avec un temps de latence
+
+4)Jeux
+------
+Votre mise initiale est à 1.
+Vous pouvez l'augmenter jusqu'à 3.
+Le gain est multiplié par la mise sauf pour le jackpot où on a 1000 en x1, 2000 en x2 et 5000 en x3.
+Si vous gagnez 5000, vous aurez une animation spéciale jackpot.

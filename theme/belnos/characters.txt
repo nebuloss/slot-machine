@@ -1,0 +1,6 @@
+B.txt B
+E.txt E
+L.txt L
+N.txt N
+O.txt O
+S.txt S
