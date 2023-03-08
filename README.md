@@ -2,7 +2,7 @@
 
 A slot machine with a termianl user interface
 
-![1678310473066](screenshot.png)Z
+![1678310473066](screenshot.png)
 
 ## Build
 
