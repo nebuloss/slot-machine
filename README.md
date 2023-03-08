@@ -31,18 +31,18 @@ Follow theses steps to create a theme:
 
     example of`8.txt`:
 
-```
- 88888888
-8        8
-8        8
-8        8
- 88888888
-8        8
-8        8
-8        8
-8        8
- 88888888
-```
+  ```
+  88888888
+  8        8
+  8        8
+  8        8
+  88888888
+  8        8
+  8        8
+  8        8
+  8        8
+   88888888
+  ```
 
 Please note that it is important to draw the characters with the characters it refers to.
 
@@ -60,7 +60,7 @@ Please note that it is important to draw the characters with the characters it r
   NNN 200
   ```
 
-Thats it. If you follow these steps it should works.
+That's it. If you follow these steps it should work properly.
 
 Bonus: you can add if you want an image for your theme. Just add a bitmap image (.bmp) whose dimensions are: 43x26 pixels
 
